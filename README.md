@@ -1,5 +1,2 @@
-# Budgety
-
-# 15.03.2019 - implemented the Module Pattern
-             - setted up the First Event Listener
-             - implemented reading data from input fields
+# Budgety - 18.03.2019 
+# - Added a new item to budget controller
