@@ -1,2 +1,2 @@
 # Budgety - 20.03.2019 
-# - Updating the Budget: Contoller
+# - Updating the Budget: Budget Controller
