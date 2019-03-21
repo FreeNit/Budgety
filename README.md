@@ -1,2 +1,2 @@
 # Budgety - 21.03.2019 
-# - Updating the Budget: UI Controller
+# - Deleting an Item from Our Budget Controller
