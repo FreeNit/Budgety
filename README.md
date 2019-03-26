@@ -1,2 +1,2 @@
-# Budgety - 21.03.2019 
-# - Updating the Percentages: UI Controller
+# Budgety - 26.03.2019 
+# - Formatting Our udget Numbers: String Manipulation
